@@ -1,0 +1,38 @@
+.controller__nav{
+    border : 1px solid black;
+    border-radius: 20px;
+    width : 200px;
+    height : auto;
+    font-size : 25px;
+    font-weight: 800;
+    cursor : pointer;
+    text-align: center;
+    box-shadow: 3px 3px 3px 1px gray;
+}
+
+
+.controller-menu{
+    border-bottom : 1px solid black;
+}
+
+
+.controller-menu >p{
+    margin : 15px;
+}
+
+
+.controller-content{
+     font-size : 13px;
+      color : red;
+      font-weight: 100;
+       display: none;
+   }
+
+.controller-last{
+    border-bottom : none;
+}
+
+
+.viewContent{
+    display : block;
+}
